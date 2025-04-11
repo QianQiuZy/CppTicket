@@ -1,2 +1,44 @@
 # CppTicket
-适用CPP抢票
+
+适用于CPP无差别平台抢票
+
+## 介绍
+
+为防止大规模倒卖和黄牛大规模流通，本脚本暂时采用闭源模式
+
+没有任何后台，所有请求均为CPP官方API请求
+
+本脚本仅供学习交流使用, 不得用于商业用途, 如有侵权请联系删除
+
+目前实现进阶功能：
+
+- [x] 纯命令行界面不需要调用webdriver（登录、选票、抢票、付款）
+- [x] 轮询API查询余票，有票再发起请求抢票（https://www.allcpp.cn/allcpp/ticket/getTicketTypeList.do）
+- [x] 抢票期间查询是否有未支付订单（https://www.allcpp.cn/api/tk/getList.do?type=0&sort=0&index=1&size=10）
+- [x] 根据开票时间准时开始抢票（使用ntplib校准时间）
+- [x] 开票内一小时不查询余票数量，不断尝试发起订单（狂暴抢票模式）
+- [x] 命令行内显示付款二维码（目前仅支持微信）
+
+## 问题报告
+
+提交issue或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
+
+如发现倒卖行为和要求B站三连获取脚本等获利行为也请B站联系作者[千秋紫莹](https://space.bilibili.com/351708822)
+
+## 友情链接
+
+其他CPP脚本：
+
+[https://github.com/mikumifa/cppTickerBuy](https://github.com/mikumifa/cppTickerBuy)
+
+[https://github.com/shotoguazi/CPPTicketManager](https://github.com/shotoguazi/CPPTicketManager)
+
+[https://github.com/luotian2020/cpp-Gohelper](https://github.com/luotian2020/cpp-Gohelper)
+
+[https://github.com/Hanzzkj652/CPPRush](https://github.com/Hanzzkj652/CPPRush)
+
+[https://github.com/Soyo-suki/python-cpp-Grab-ticket-code](https://github.com/Soyo-suki/python-cpp-Grab-ticket-code)
+
+## 感谢名单
+
+如果你投喂了赞赏码就会出现在下面的感谢名单，可以匿名投喂
