@@ -4,7 +4,7 @@
 
 ## 介绍
 
-为防止大规模倒卖和黄牛大规模流通，本脚本暂时采用闭源模式
+为防止大规模倒卖，本脚本暂时采用闭源模式
 
 没有任何后台，所有请求均为CPP官方API请求
 
@@ -38,6 +38,8 @@
 [https://github.com/Hanzzkj652/CPPRush](https://github.com/Hanzzkj652/CPPRush)
 
 [https://github.com/Soyo-suki/python-cpp-Grab-ticket-code](https://github.com/Soyo-suki/python-cpp-Grab-ticket-code)
+
+[https://github.com/Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp)
 
 ## 感谢名单
 
