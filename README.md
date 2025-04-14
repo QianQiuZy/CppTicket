@@ -4,9 +4,6 @@
   </a>
   <h1 id="sakuna">CppTicket</h1>
 
-![GitHub all releases](https://img.shields.io/github/downloads/qianqiuzy/cppticket/total)
-![GitHub Repo stars](https://img.shields.io/github/stars/qianqiuzy/cppticket)
-
 </div>
 
 适用于CPP无差别平台抢票，极简页面，无需繁琐操作，快速上手
