@@ -1,14 +1,21 @@
-# CppTicket
+<div align="center">
+  <a href="https://github.com/qianqiuzy/cppticket" target="_blank">
+    <img width="320" src="icon.ico" alt="logo">
+  </a>
+  <h1 id="sakuna">CppTicket</h1>
 
-适用于CPP无差别平台抢票
+![GitHub all releases](https://img.shields.io/github/downloads/qianqiuzy/cppticket/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/qianqiuzy/cppticket)
+
+</div>
+
+适用于CPP无差别平台抢票，极简页面，无需繁琐操作，快速上手
 
 ## 介绍
 
 为防止大规模倒卖，本脚本暂时采用闭源模式
 
 没有任何后台，所有请求均为CPP官方API请求
-
-本脚本仅供学习交流使用, 不得用于商业用途, 如有侵权请联系删除
 
 目前实现进阶功能：
 
@@ -19,6 +26,14 @@
 - [x] 根据开票时间准时开始抢票（使用ntplib校准时间）
 - [x] 开票内一小时不查询余票数量，不断尝试发起订单（狂暴抢票模式）
 - [x] 命令行内显示付款二维码（目前仅支持微信）
+
+## 快速入门
+
+在[release](https://github.com/QianQiuZy/CppTicket/releases/tag/CP31)中点击cppticket.exe进行下载
+
+（如有浏览器警告请点击右侧的三个点，点击保留，点击显示详细信息，点击仍然保留）
+
+双击cppticket.exe打开并按照命令行内操作即可
 
 ## 问题报告
 
@@ -41,6 +56,12 @@
 [https://github.com/Soyo-suki/python-cpp-Grab-ticket-code](https://github.com/Soyo-suki/python-cpp-Grab-ticket-code)
 
 [https://github.com/Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp)
+
+## 免责声明
+
+详见[MIT License](./LICENSE)，切勿进行盈利，所造成的后果与本人无关
+
+本脚本仅供学习交流使用, 不得用于商业用途, 如有侵权请联系删除
 
 ## 感谢名单
 
