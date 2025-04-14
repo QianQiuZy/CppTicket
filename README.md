@@ -1,12 +1,20 @@
 <div align="center">
   <a href="https://github.com/qianqiuzy/cppticket" target="_blank">
-    <img width="320" src="sakuna.ico" alt="logo">
+    <img width="160" src="sakuna.ico" alt="logo">
   </a>
   <h1 id="sakuna">CppTicket</h1>
 
 </div>
 
 适用于CPP无差别平台抢票，极简页面，无需繁琐操作，快速上手
+
+## 快速入门
+
+在[release](https://github.com/QianQiuZy/CppTicket/releases/tag/CP31)中点击cppticket.exe进行下载
+
+（如有浏览器警告请点击右侧的三个点，点击保留，点击显示详细信息，点击仍然保留）
+
+双击cppticket.exe打开并按照命令行内操作即可
 
 ## 介绍
 
@@ -23,14 +31,6 @@
 - [x] 根据开票时间准时开始抢票（使用ntplib校准时间）
 - [x] 开票内一小时不查询余票数量，不断尝试发起订单（狂暴抢票模式）
 - [x] 命令行内显示付款二维码（目前仅支持微信）
-
-## 快速入门
-
-在[release](https://github.com/QianQiuZy/CppTicket/releases/tag/CP31)中点击cppticket.exe进行下载
-
-（如有浏览器警告请点击右侧的三个点，点击保留，点击显示详细信息，点击仍然保留）
-
-双击cppticket.exe打开并按照命令行内操作即可
 
 ## 问题报告
 
