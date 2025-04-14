@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/qianqiuzy/cppticket" target="_blank">
-    <img width="320" src="icon.ico" alt="logo">
+    <img width="320" src="sakuna.ico" alt="logo">
   </a>
   <h1 id="sakuna">CppTicket</h1>
 
