@@ -41,6 +41,7 @@
 ## 友情链接
 
 更多高级功能，更好的用户交互界面，支持多用户多票种配置
+
 [https://github.com/Hanzzkj652/CPPRush](https://github.com/Hanzzkj652/CPPRush)
 
 ## 免责声明
