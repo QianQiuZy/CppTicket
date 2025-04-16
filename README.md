@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://github.com/qianqiuzy/cppticket" target="_blank">
     <img width="160" src="sakuna.ico" alt="logo">
   </a>
