@@ -40,19 +40,8 @@
 
 ## 友情链接
 
-其他CPP脚本：
-
-[https://github.com/mikumifa/cppTickerBuy](https://github.com/mikumifa/cppTickerBuy)
-
-[https://github.com/shotoguazi/CPPTicketManager](https://github.com/shotoguazi/CPPTicketManager)
-
-[https://github.com/luotian2020/cpp-Gohelper](https://github.com/luotian2020/cpp-Gohelper)
-
+更多高级功能，更好的用户交互界面，支持多用户多票种配置
 [https://github.com/Hanzzkj652/CPPRush](https://github.com/Hanzzkj652/CPPRush)
-
-[https://github.com/Soyo-suki/python-cpp-Grab-ticket-code](https://github.com/Soyo-suki/python-cpp-Grab-ticket-code)
-
-[https://github.com/Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp)
 
 ## 免责声明
 
