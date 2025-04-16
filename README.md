@@ -5,6 +5,9 @@
   <h1 id="sakuna">CppTicket</h1>
 
 </div>
+![GitHub all releases](https://img.shields.io/github/downloads/QianQiuZy/CppTicket/total)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/QianQiuZy/CppTicket)
+![GitHub Repo stars](https://img.shields.io/github/stars/QianQiuZy/CppTicket)
 
 适用于CPP无差别平台抢票，极简页面，无需繁琐操作，快速上手
 
