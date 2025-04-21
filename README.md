@@ -20,6 +20,14 @@
 
 双击cppticket.exe打开并按照命令行内操作即可
 
+## 问题解决
+
+[杀毒软件误报解决](https://blog.csdn.net/qq_42009262/article/details/106992684)
+
+[github下载慢解决方法1](https://blog.csdn.net/qq_42009262/article/details/106992684)
+
+[github下载慢解决方法2](https://github-hosts.tinsfox.com/)
+
 ## 介绍
 
 为防止大规模倒卖，本脚本暂时采用闭源模式
