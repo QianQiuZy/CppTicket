@@ -37,9 +37,9 @@
 目前实现进阶功能：
 
 - [x] 纯命令行界面不需要调用webdriver（登录、选票、抢票、付款）
-- [x] 轮询API查询余票，有票再发起请求抢票（https://www.allcpp.cn/allcpp/ticket/getTicketTypeList.do）
-- [x] 抢票期间查询是否有未支付订单（https://www.allcpp.cn/api/tk/getList.do?type=0&sort=0&index=1&size=10）
-- [x] 验证cookie有效性并获取用户名（https://www.allcpp.cn/mng/action.do）
+- [x] 轮询API查询余票，有票再发起请求抢票
+- [x] 抢票期间查询是否有未支付订单
+- [x] 验证cookie有效性并获取用户名
 - [x] 根据开票时间准时开始抢票（使用ntplib校准时间）
 - [x] 开票内一小时不查询余票数量，不断尝试发起订单（狂暴抢票模式）
 - [x] 命令行内显示付款二维码（目前仅支持微信）
