@@ -32,7 +32,9 @@
 
 为防止大规模倒卖，本脚本暂时采用闭源模式
 
-没有任何后台，所有请求均为CPP官方API请求
+单版本检测API，无任何获取个人信息的后台
+
+API网址：https://api.qianqiuzy.cn/cpp/version
 
 目前实现进阶功能：
 
