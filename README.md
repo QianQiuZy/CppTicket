@@ -9,6 +9,7 @@
 适用于CPP无差别平台抢票，极简页面，无需繁琐操作，快速上手
 
 ![GitHub all releases](https://img.shields.io/github/downloads/QianQiuZy/CppTicket/total)
+![使用次数](https://img.shields.io/badge/dynamic/json?label=%E4%BD%BF%E7%94%A8%E6%AC%A1%E6%95%B0&query=%24%5B%3F(%40.endpoint%3D%3D%22%2Fcpp%2Fversion%22)%5D.count&url=https%3A%2F%2Fapi.qianqiuzy.cn%2Fvisit%2Fstats&color=brightgreen)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/QianQiuZy/CppTicket)
 ![GitHub Repo stars](https://img.shields.io/github/stars/QianQiuZy/CppTicket)
 
