@@ -17,6 +17,8 @@
 
 在[release](https://github.com/QianQiuZy/CppTicket/releases/tag/CP31)中点击cppticket.exe进行下载
 
+（可以使用[gitee](https://gitee.com/qianqiuzy/CppTicket/releases/tag/CP31)进行下载）
+
 （如有浏览器警告请点击右侧的三个点，点击保留，点击显示详细信息，点击仍然保留）
 
 双击cppticket.exe打开并按照命令行内操作即可
