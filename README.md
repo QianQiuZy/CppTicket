@@ -15,7 +15,7 @@
 
 ## 快速入门
 
-在[release](https://github.com/QianQiuZy/CppTicket/releases/tag/CP31)中点击cppticket.exe进行下载
+在[release](https://github.com/QianQiuZy/CppTicket/releases)中点击cppticket.exe进行下载
 
 （可以使用[gitee](https://gitee.com/qianqiuzy/CppTicket/releases/tag/CP31)进行下载）
 
