@@ -17,7 +17,7 @@
 
 在[release](https://github.com/QianQiuZy/CppTicket/releases)中点击cppticket.exe进行下载
 
-（可以使用[gitee](https://gitee.com/qianqiuzy/CppTicket/releases/tag/CP31)进行下载）
+（可以使用[gitee](https://gitee.com/qianqiuzy/CppTicket/releases)进行下载）
 
 （如有浏览器警告请点击右侧的三个点，点击保留，点击显示详细信息，点击仍然保留）
 
@@ -33,7 +33,9 @@
 
 ## 介绍
 
-为防止大规模倒卖，本脚本暂时采用闭源模式
+本脚本暂时闭源
+
+如需获取源码请联系作者
 
 单版本检测API，无任何获取个人信息的后台
 
