@@ -69,6 +69,10 @@ API网址：https://api.qianqiuzy.cn/cpp/version
 
 本脚本仅供学习交流使用, 不得用于商业用途, 如有侵权请联系删除
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=QianQiuZy/CppTicket&type=Date)](https://star-history.com/#QianQiuZy/CppTicket&Date)
+
 ## 感谢名单
 
 投喂地点：[爱发电](https://afdian.com/a/qianqiuzy)
