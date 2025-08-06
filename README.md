@@ -33,13 +33,7 @@
 
 ## 介绍
 
-本脚本暂时闭源
-
-如需获取源码请联系作者
-
-单版本检测API，无任何获取个人信息的后台
-
-API网址：https://api.qianqiuzy.cn/cpp/version
+目前正在重构中，预计最近上线，CP上海开票前会将CPP和会员购脚本都重构完成上传
 
 目前实现进阶功能：
 
@@ -73,21 +67,6 @@ API网址：https://api.qianqiuzy.cn/cpp/version
 
 [![Star History Chart](https://api.star-history.com/svg?repos=QianQiuZy/CppTicket&type=Date)](https://star-history.com/#QianQiuZy/CppTicket&Date)
 
-## 感谢名单
+## 投喂作者
 
 投喂地点：[爱发电](https://afdian.com/a/qianqiuzy)
-
-如果你投喂了作者就会出现在下面的感谢名单，可以匿名投喂
-
-排名不分先后
-
-|    赞助名单    |    赞助金额    |
-| :------------: | :------------: |
-|    匿名用户    |      10r       |
-|    匿名用户    |       5r       |
-|    匿名用户    |      10r       |
-|    匿名用户    |      20r       |
-|    匿名用户    |      20r       |
-|    匿名用户    |      30r       |
-|    匿名用户    |      20r       |
-|    匿名用户    |      30r       |
