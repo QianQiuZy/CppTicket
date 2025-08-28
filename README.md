@@ -17,7 +17,7 @@
 
 在[release](https://github.com/QianQiuZy/CppTicket/releases)中点击cppticket.exe进行下载
 
-（可以使用[gitee](https://gitee.com/qianqiuzy/CppTicket/releases)进行下载）
+（下载速度慢可以使用[gitee](https://gitee.com/qianqiuzy/CppTicket/releases)进行下载）
 
 （如有浏览器警告请点击右侧的三个点，点击保留，点击显示详细信息，点击仍然保留）
 
@@ -47,15 +47,17 @@
 
 ## 问题报告
 
-提交issue或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
+提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@gmail.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
 
-如发现倒卖行为和要求B站三连获取脚本等获利行为也请B站联系作者[千秋紫莹](https://space.bilibili.com/351708822)
+如发现倒卖行为和要求B站三连获取脚本等获利行为也请联系作者
 
 ## 友情链接
 
-更多高级功能，更好的用户交互界面，支持多用户多票种配置
+[cppTickerBuy](https://github.com/mikumifa/cppTickerBuy)
 
-[https://github.com/Hanzzkj652/CPPRush](https://github.com/Hanzzkj652/CPPRush)
+[CPPTicketManager](https://github.com/shotoguazi/CPPTicketManager)
+
+[CPPRush](https://github.com/Hanzzkj652/CPPRush)
 
 ## 免责声明
 
