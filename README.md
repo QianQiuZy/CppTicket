@@ -33,21 +33,11 @@
 
 ## 介绍
 
-已使用httpx完全重构
-
-目前实现进阶功能：
-
-- [x] 纯命令行界面不需要调用webdriver（登录、选票、抢票、付款）
-- [x] 轮询API查询余票，有票再发起请求抢票
-- [x] 抢票期间查询是否有未支付订单
-- [x] 验证cookie有效性并获取用户名
-- [x] 根据开票时间准时开始抢票（使用ntplib校准时间）
-- [x] 开票内一小时不查询余票数量，不断尝试发起订单（狂暴抢票模式）
-- [x] 命令行内显示付款二维码（目前仅支持微信）
+已使用httpx
 
 ## 问题报告
 
-提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@gmail.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
+提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@qq.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
 
 如发现倒卖行为和要求B站三连获取脚本等获利行为也请联系作者
 
